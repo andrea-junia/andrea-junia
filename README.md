@@ -8,8 +8,6 @@ About ME
 
 \*\* Graduated in Information Technology. 
 
-\*\* I'm a person with an ambition to continue learning. 
-
 \*\* Currently working as an ADVPL developer, a proprietary TOTVS programming language that runs the Protheus ERP system.
 
 * 🌍  I'm based in Brazil
