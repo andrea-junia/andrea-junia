@@ -1,6 +1,6 @@
 # Andrea Junia
 #### 🔭 Who Am I?
-![Who Am I?](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Who Am I?](https://github.com/andrea-junia/andrea-junia/blob/main/banner.png)
 
 ** Graduated in Information Technology. 
 
