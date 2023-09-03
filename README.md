@@ -1,6 +1,12 @@
 # Andrea Junia
 #### 🔭 Who Am I?
-![Who Am I?](https://github.com/andrea-junia/andrea-junia/blob/main/banner.png)
+<!--![Who Am I?](https://github.com/andrea-junia/andrea-junia/blob/main/banner.png)-->
+
+<picture>
+  <source media="(min-width:650px)" srcset="https://github.com/andrea-junia/andrea-junia/blob/main/banner.png">
+  <source media="(min-width:465px)" srcset="https://github.com/andrea-junia/andrea-junia/blob/main/banner.png">
+  <img src="banner.jpg" alt="Flowers" style="width:auto;">
+</picture>
 
 ** Graduated in Information Technology. 
 
