@@ -1,14 +1,18 @@
+![BANNER](https://github.com/andrea-junia/andrea-junia/blob/main/banner.png)
+
 Hi 👋 My name is Andrea Junia
 =============================
 
-System Analyst
+About ME
 --------------
 
-\*\* Graduated in Information Technology. \*\* Currently working as an ADVPL developer, a proprietary TOTVS programming language that runs the Protheus ERP system.
+\*\* Graduated in Information Technology. 
+
+\*\* Currently working as an ADVPL developer, a proprietary TOTVS programming language that runs the Protheus ERP system.
 
 * 🌍  I'm based in Brazil
 * 🧠  I'm learning Java BackEnd at Dio Platform of studies. Where I also learned HTML, CSS, Javascript, among other programming languages.
-* ⚡  \*\* Idions: Portuguese, English - Intermediate, French - Beginner
+* ⚡  Idions: Portuguese, English - Intermediate, French - Beginner
 
 ### Skills
 
